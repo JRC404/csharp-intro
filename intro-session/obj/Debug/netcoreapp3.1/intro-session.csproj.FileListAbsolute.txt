@@ -1,0 +1,12 @@
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/bin/Debug/netcoreapp3.1/intro-session.deps.json
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/bin/Debug/netcoreapp3.1/intro-session.runtimeconfig.json
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/bin/Debug/netcoreapp3.1/intro-session.runtimeconfig.dev.json
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/bin/Debug/netcoreapp3.1/intro-session.dll
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/bin/Debug/netcoreapp3.1/intro-session.pdb
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/obj/Debug/netcoreapp3.1/intro-session.csprojAssemblyReference.cache
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/obj/Debug/netcoreapp3.1/intro-session.AssemblyInfoInputs.cache
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/obj/Debug/netcoreapp3.1/intro-session.AssemblyInfo.cs
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/obj/Debug/netcoreapp3.1/intro-session.csproj.CoreCompileInputs.cache
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/obj/Debug/netcoreapp3.1/intro-session.dll
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/obj/Debug/netcoreapp3.1/intro-session.pdb
+/Users/jacob/Desktop/development-projects/csharpapps/intro-session/obj/Debug/netcoreapp3.1/intro-session.genruntimeconfig.cache
